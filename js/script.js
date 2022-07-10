@@ -8,6 +8,9 @@ console.log(16  *  '      91    ');
 
 console.log(true - 70);
 
+console.log(Number(1 + String(1)) + 1);
+
+
 //Task 7
 
 // let hours = Number (prompt('How many hours to you want to transfer to seconds?'));
