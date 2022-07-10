@@ -1,3 +1,4 @@
+'use strict';
 //Task 6
 
 console.log(Boolean(Number('10')) + 1);
